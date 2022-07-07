@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasvi-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-shukla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashasvi-shukla" alt="yashasvi-shukla" /></a> </p>
-<img align="right" alt="naruto" width="500"src="https://giffiles.alphacoders.com/315/31597.gif">
+<img align="right" alt="naruto" width="450"src="https://giffiles.alphacoders.com/315/31597.gif">
 <h3 align="left">Connect with me:</h3>
 
 
@@ -13,8 +13,7 @@
 [![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/YASHasvi-SHUkla?tab=followers)
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/yashasvi-shukla-4b09041a8/)
 [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/9773548452)
-[![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/akash.singh3031/)
-
+[![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/yashasvi_shukla__/)
 [![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](mailto:yashasvigot@gmail.com)
 
 
@@ -30,7 +29,7 @@
 <img src="https://github.com/YASHasvi-SHUkla/YASHasvi-SHUkla/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=YASHasvi-SHUkla&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most Used Languages">
+    <img width="55%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=YASHasvi-SHUkla&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most Used Languages">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
   </a>
@@ -41,9 +40,9 @@
 <img src="https://github.com/YASHasvi-SHUkla/YASHasvi-SHUkla/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=YASHasvi-SHUkla&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title= BANKAI :) Programmers!&layout=compact"/><br><br>
-    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=YASHasvi-SHUkla&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-    <img align="center" width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YASHasvi-SHUkla&theme=radical" />
+    <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=YASHasvi-SHUkla&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title= BANKAI :) Programmers!&layout=compact"/><br><br>
+    <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=YASHasvi-SHUkla&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+    <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YASHasvi-SHUkla&theme=radical" />
   </a>
 </p><br><br>
 
