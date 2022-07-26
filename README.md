@@ -17,6 +17,7 @@
 [![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](mailto:yashasvigot@gmail.com)
 
 
+
 <p align="left">
 <a href="https://linkedin.com/in/yashasvi shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashasvi shukla" height="30" width="40" /></a>
 </p>
