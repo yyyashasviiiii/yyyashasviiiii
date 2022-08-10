@@ -55,4 +55,3 @@
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@yashasvi97)
 ![CodeChef](https://cp-logo.vercel.app/codechef/yashasvi69?logo=true)
 
-* YASHasvi SHUkla *
