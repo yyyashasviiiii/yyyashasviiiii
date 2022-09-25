@@ -31,7 +31,6 @@
 
 ### :zap: GitHub Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=YASHasvi-SHUkla&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title= BANKAI :) Programmers!&layout=compact"/><br><br>
     <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=YASHasvi-SHUkla&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
     <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YASHasvi-SHUkla&theme=radical" />
