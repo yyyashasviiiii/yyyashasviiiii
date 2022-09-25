@@ -30,7 +30,6 @@
 
 
 ### :zap: GitHub Stats
-<img src="https://github.com/YASHasvi-SHUkla/YASHasvi-SHUkla/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=YASHasvi-SHUkla&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title= BANKAI :) Programmers!&layout=compact"/><br><br>
