@@ -31,7 +31,7 @@
 
 ### :zap: GitHub Stats
 <p align="center">
-    <br><br>
+    <br>
     <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=YASHasvi-SHUkla&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
     <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YASHasvi-SHUkla&theme=radical" />
   </a>
