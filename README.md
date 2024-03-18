@@ -1,6 +1,6 @@
 <img alt="header" src="https://github.com/YASHasvi-SHUkla/YASHasvi-SHUkla/blob/main/Red%20and%20Pink%20Strong%20and%20Bold%20Earthquake%20Crisis%20Hub%20LinkedIn%20Banner.png">
 <h1 align="center">Hey there⚡, I'm Yashasvi Shukla</h1>
-<h3 align="center">A Python Developer with Web toppings!!</h3>
+<h3 align="center">A Web Developer with Python toppings!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasvi-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-shukla" /> </p>
 
