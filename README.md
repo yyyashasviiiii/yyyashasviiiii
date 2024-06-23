@@ -39,4 +39,3 @@
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@yashasvi97)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/yashasvishukla69)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat&amp;labelColor=white&amp;logo=codechef&amp;logoColor=brown)](https://www.codechef.com/users/yashasvi69)
-
