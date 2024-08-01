@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyyashasviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-shukla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashasvi-shukla" alt="yashasvi-shukla" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyyashasviiiii" alt="yashasvi-shukla" /></a> </p>
 <img align="right" alt="naruto" width="450"src="https://giffiles.alphacoders.com/315/31597.gif">
 <br>
 <h3 align="left">Connect with me:</h3>
 
 
 ### `Social Networks:`<br>
-[![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/YASHasvi-SHUkla?tab=followers)
+[![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/yyyashasviiiii?tab=followers)
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/yashasvi-shukla-4b09041a8/)
 [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/9773548452)
 [![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/yyyashasviiiii/)
@@ -25,8 +25,8 @@
 ### :zap: GitHub Stats
 <p align="center">
     <br>
-    <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=YASHasvi-SHUkla&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-    <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YASHasvi-SHUkla&theme=radical" />
+    <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=yyyashasviiiii&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+    <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yyyashasviiiii&theme=radical" />
   </a>
 </p><br><br>
 
