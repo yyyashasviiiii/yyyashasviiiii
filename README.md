@@ -1,6 +1,5 @@
 <img alt="header" src="https://github.com/user-attachments/assets/912d37ed-4ff5-4d92-86ca-6c36b70d752e">
 
-![Red and Pink Strong and Bold Earthquake Crisis Hub LinkedIn Banner](https://github.com/user-attachments/assets/912d37ed-4ff5-4d92-86ca-6c36b70d752e)
 
 
 <h1 align="center">Hey there⚡, I'm Yashasvi Shukla</h1>
