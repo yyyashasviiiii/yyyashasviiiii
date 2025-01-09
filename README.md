@@ -27,7 +27,10 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 </p><br>
 
