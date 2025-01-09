@@ -4,8 +4,7 @@
 <h3 align="center">A Web Developer with Python toppings!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyyashasviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-shukla" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=yyyashasviiiii)](https://github.com/ryo-ma/github-profile-trophy)
-<img align="right" alt="naruto" width="450"src="https://giffiles.alphacoders.com/315/31597.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyyashasviiiii" alt="yashasvi-shukla" /></a> </p><img align="right" alt="naruto" width="450"src="https://giffiles.alphacoders.com/315/31597.gif">
 <br>
 <h3 align="left">Connect with me:</h3>
 
