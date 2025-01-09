@@ -28,6 +28,7 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <br>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 </p><br>
