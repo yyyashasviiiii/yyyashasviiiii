@@ -19,18 +19,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://html.com/tags/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a> 
     <a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="[https](https://graphql.org/graphql-js/)" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="javascript" width="40" height="40"/> </a> 
     <br>
-    <a href="https://redux.js.org/tutorials/fundamentals/part-1-overview" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://nextjs.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="html" width="40" height="40"/> </a> 
+
 
 </p><br>
 
