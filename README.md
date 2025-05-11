@@ -1,7 +1,7 @@
 <img alt="header" src="https://github.com/user-attachments/assets/912d37ed-4ff5-4d92-86ca-6c36b70d752e">
 
 <h1 align="center">Hey there⚡, I'm Yashasvi Shukla</h1>
-<h3 align="center">A Web Developer with Python toppings!!</h3>
+<h3 align="center">A Web Developer with DSA toppings!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyyashasviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-shukla" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyyashasviiiii" alt="yashasvi-shukla" /></a> </p><img align="right" alt="naruto" width="450"src="https://giffiles.alphacoders.com/315/31597.gif">
