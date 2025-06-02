@@ -3,8 +3,11 @@
 <h1 align="center">Hey there⚡, I'm Yashasvi Shukla</h1>
 <h3 align="center">A Web Developer with DSA toppings!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yyyashasviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-shukla" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyyashasviiiii" alt="yashasvi-shukla" /></a> </p><img align="right" alt="naruto" width="450"src="https://giffiles.alphacoders.com/315/31597.gif">
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=yyyashasviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-shukla" />
+</p>
+
+<img align="right" alt="naruto" width="450" src="https://giffiles.alphacoders.com/315/31597.gif">
 <br>
 <h3 align="left">Connect with me:</h3>
 
@@ -26,7 +29,8 @@
     <br>
     <a href="https://nextjs.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.cpp.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="mysql" width="40" height="40"/> </a> 
 
 
 </p><br>
@@ -36,7 +40,7 @@
 ### :zap: GitHub Stats
 <p align="center">
     <br>
-<!--     <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=yyyashasviiiii&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br> -->
+    <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=yyyashasviiiii&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
     <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yyyashasviiiii&theme=radical" />
   </a>
 </p><br><br>
