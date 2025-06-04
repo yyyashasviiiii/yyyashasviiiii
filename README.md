@@ -11,7 +11,6 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 
-
 ### `Social Networks:`<br>
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/yashasvi-shukla-4b09041a8/)
 [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/9773548452)
