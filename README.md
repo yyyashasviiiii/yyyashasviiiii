@@ -31,7 +31,6 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.cpp.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="mysql" width="40" height="40"/> </a> 
 
-
 </p><br>
 
 <hr>
@@ -46,9 +45,6 @@
 
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/u/yyyashasviiiii/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](www.bjp.org)
-[![freecodecamp](https://img.shields.io/badge/-freecodecamp-blue?style=flat&amp;labelColor=white&amp;logo=freecodecamp&amp;logoColor=blue)](https://www.freecodecamp.org/yashasvi_shukla)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/yashasvigot)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@yashasvi97)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/yashasvishukla69)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat&amp;labelColor=white&amp;logo=codechef&amp;logoColor=brown)](https://www.codechef.com/users/yashasvi69)
