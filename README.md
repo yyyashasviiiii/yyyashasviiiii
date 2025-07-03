@@ -22,7 +22,6 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="[https](https://graphql.org/graphql-js/)" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="javascript" width="40" height="40"/> </a> 
     <br>
