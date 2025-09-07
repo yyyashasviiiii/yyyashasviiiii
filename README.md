@@ -1,7 +1,7 @@
 <img alt="header" src="https://github.com/user-attachments/assets/912d37ed-4ff5-4d92-86ca-6c36b70d752e">
 
 <h1 align="center">Hey there⚡, I'm Yashasvi Shukla</h1>
-<h3 align="center">A Web Developer with Python toppings!!</h3>
+<h3 align="center">Web Developer with Python toppings!!</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=yyyashasviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-shukla" />
@@ -9,13 +9,7 @@
 
 <img align="right" alt="naruto" width="450" src="https://giffiles.alphacoders.com/315/31597.gif">
 <br>
-<h3 align="left">Connect with me:</h3>
 
-### `Social Networks:`<br>
-[![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/yashasvi-shukla-4b09041a8/)
-[![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/9773548452)
-[![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/yyyashasviiiii/)
-[![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](mailto:yashasvigot@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,8 +38,3 @@
   </a>
 </p><br><br>
 
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/u/yyyashasviiiii/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/yashasvigot)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/yashasvishukla69)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat&amp;labelColor=white&amp;logo=codechef&amp;logoColor=brown)](https://www.codechef.com/users/yashasvi69)
