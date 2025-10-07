@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,aws,react,nextjs,javascript,nodejs,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,aws,react,nextjs,javascript,cpp" />
   </a>
 </p>
 <br>
